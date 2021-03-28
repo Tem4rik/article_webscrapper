@@ -1,2 +1,2 @@
 # article_webscrapper
-My first simple but decent webscrapper project that parses news and saves them locally in text files
+My first **simple** but **decent** webscrapper project that parses articles from the website and saves them locally in text files
